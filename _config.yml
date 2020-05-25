@@ -22,7 +22,6 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://automatedfieldphenomics.github.io"
 twitter_username: oli_wilkins
-github_username:  automatedfieldphenomics
 
 # Build settings
 markdown: kramdown
