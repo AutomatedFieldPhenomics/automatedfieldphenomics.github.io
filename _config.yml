@@ -19,6 +19,8 @@ description: >-
   We aim to develop inexpensive sensors for monitoring environmental features and
   plant growth of photosynthetic organisms that are deployed at our study sites
   across Canada.
+
+  Project supervisors: Wouter Deconinck, Chyngyz Erkinbaev, Olivia Wilkins
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://automatedfieldphenomics.github.io"
 twitter_username: oli_wilkins
